@@ -1,0 +1,28 @@
+{
+  "source": "http://anamani.edu.np/prabhu.m3u8",
+  "kind": "channels",
+  "entries": 166,
+  "imported": 147,
+  "epgUrl": "http://anamani.edu.np/IN.xml.gz",
+  "warnings": [
+    "Line 24: Comedy plus has no stream URL.",
+    "Line 26: Gunjan TV HD has no stream URL.",
+    "Line 61: Image Channel HD has no stream URL.",
+    "Line 99: AP1 has no stream URL.",
+    "Line 125: Bodhi TV has no stream URL.",
+    "Line 142: Nepal Mandal has no stream URL.",
+    "Line 159: Bagmati TV has no stream URL.",
+    "Line 188: B4U Kadak has no stream URL.",
+    "Line 229: HI Dost has no stream URL.",
+    "Line 252: Zee TV HD has no stream URL.",
+    "Line 320: Nat Geo Wild HD has no stream URL.",
+    "Sarokar: duplicate stream URL skipped.",
+    "Line 367: DW HD has no stream URL.",
+    "Arirang: duplicate stream URL skipped.",
+    "Himalaya Sports: duplicate stream URL skipped.",
+    "Line 396: Star Sports Select HD2 has no stream URL.",
+    "Line 404: Sony Sports Ten 3 HD has no stream URL.",
+    "Deep TV: duplicate stream URL skipped.",
+    "Line 454: Bodhi TV has no stream URL."
+  ]
+}

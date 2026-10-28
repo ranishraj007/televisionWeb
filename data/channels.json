@@ -1,0 +1,1359 @@
+[
+  {
+    "id": "ad-showcase-1bps4y5",
+    "name": "Ad showcase",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/ad-showcase.jpg",
+    "category": "General",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/06dea900c457/aes/manifest.m3u8",
+    "number": "100"
+  },
+  {
+    "id": "fox-sports-jheha3",
+    "name": "Fox Sports",
+    "logo": "http://www.foxcorporation.com/wp-content/themes/foxcorporation/images/fox-logo-white.png",
+    "category": "Sports",
+    "group": "Sports",
+    "streamUrl": "http://84.17.50.102/fox/index.m3u8",
+    "number": "100"
+  },
+  {
+    "id": "dh-showcase-lhaimc",
+    "name": "DH showcase",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/dh-showcase.png",
+    "category": "General",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/f54783b28e85/aes/manifest.m3u8",
+    "number": "101"
+  },
+  {
+    "id": "reality-tv-15ytnlk",
+    "name": "Reality TV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/reality-tv.png",
+    "category": "Entertainment",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/d1c0e953a1ba/aes/manifest.m3u8",
+    "number": "102"
+  },
+  {
+    "id": "plus-movie-hd-q6sf5m",
+    "name": "Plus Movie HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/plus-movie-hd.png",
+    "category": "Movies",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/6bbc9a509709/aes/manifest.m3u8",
+    "number": "103"
+  },
+  {
+    "id": "ramailo-tv-hd-1pqqbbw",
+    "name": "Ramailo TV HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/ramailo-tv-hd.png",
+    "category": "Entertainment",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/31e19d367549/aes/manifest.m3u8",
+    "number": "104"
+  },
+  {
+    "id": "action-sports-hd-1yx9cmj",
+    "name": "Action Sports HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/action-sports-hd.png",
+    "category": "Sports",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/2caf4a1e977d/aes/manifest.m3u8",
+    "number": "105"
+  },
+  {
+    "id": "cine-hits-9ut5c1",
+    "name": "Cine Hits",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/cine-hits.png",
+    "category": "Movies",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/7344aa8d73b8/aes/manifest.m3u8",
+    "number": "110"
+  },
+  {
+    "id": "d-movies-xxavg3",
+    "name": "D Movies",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/d-movies.png",
+    "category": "Movies",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/23acfcc02034/aes/manifest.m3u8",
+    "number": "111"
+  },
+  {
+    "id": "d-music-4aehf0",
+    "name": "D music",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/d-music.png",
+    "category": "Music",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/ca53b0b9fa2c/aes/manifest.m3u8",
+    "number": "112"
+  },
+  {
+    "id": "k-world-xt9ynn",
+    "name": "K World",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/k-world.png",
+    "category": "General",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/afebb6281779/aes/manifest.m3u8",
+    "number": "113"
+  },
+  {
+    "id": "junior-tv-po3ljs",
+    "name": "Junior TV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/junior-tv.png",
+    "category": "General",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/f938394fa040/aes/manifest.m3u8",
+    "number": "114"
+  },
+  {
+    "id": "bidhyalaya-sikshya-1esjn6k",
+    "name": "Bidhyalaya Sikshya",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/bidhyala-sikshya.png",
+    "category": "General",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/feaee8e9a4b2/aes/manifest.m3u8",
+    "number": "115"
+  },
+  {
+    "id": "madhes-plus-fxq6xe",
+    "name": "Madhes Plus",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/madhes-plus.png",
+    "category": "General",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/6e95aacaa9ca/aes/manifest.m3u8",
+    "number": "119"
+  },
+  {
+    "id": "action-sports-hd-2-pbw4fp",
+    "name": "Action Sports HD 2",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/action-sports-hd-2.png",
+    "category": "Sports",
+    "group": "DishHome Package",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/30931a431014/aes/manifest.m3u8",
+    "number": "120"
+  },
+  {
+    "id": "jhigu-nepa-channel-hd-49cvr9",
+    "name": "Jhigu Nepa Channel HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/jhigu-nepa-channel-hd.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/07dc9f73e9e2/aes/manifest.m3u8",
+    "number": "106"
+  },
+  {
+    "id": "sarokar-dtgp1u",
+    "name": "Sarokar",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/sarokar.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/71321424757f/aes/manifest.m3u8",
+    "number": "129"
+  },
+  {
+    "id": "kantipur-tv-hd-pmx9nj",
+    "name": "Kantipur TV HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/kantipur-tv-hd.png",
+    "category": "Entertainment",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/227852fb1fe0/aes/manifest.m3u8",
+    "number": "131"
+  },
+  {
+    "id": "ntv-hd-9q4o3p",
+    "name": "NTV HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/ntv-hd.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/2b61060e22d8/aes/manifest.m3u8",
+    "number": "133"
+  },
+  {
+    "id": "ntv-plus-hd-t8v7je",
+    "name": "NTV Plus HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/ntv-plus-hd.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/84ebf1005b46/aes/manifest.m3u8",
+    "number": "134"
+  },
+  {
+    "id": "ntv-news-hd-126nzsx",
+    "name": "NTV News HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/ntv-news-hd.png",
+    "category": "News",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/cd1e62700caf/aes/manifest.m3u8",
+    "number": "135"
+  },
+  {
+    "id": "ntv-kohalpur-49tmhv",
+    "name": "NTV kohalpur",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/ntv-kohalpur.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/d0d323a99fd7/aes/manifest.m3u8",
+    "number": "136"
+  },
+  {
+    "id": "ntv-itahari-hd-12efwz",
+    "name": "NTV Itahari HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/ntv-itahari-hd.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/a828bf606555/aes/manifest.m3u8",
+    "number": "137"
+  },
+  {
+    "id": "sagarmatha-tv-105wyo3",
+    "name": "Sagarmatha TV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/sagarmatha-tv.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/785c84236093/aes/manifest.m3u8",
+    "number": "138"
+  },
+  {
+    "id": "avenues-tv-lnglhb",
+    "name": "Avenues TV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/avenues-tv.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/3f80c0bb601e/aes/manifest.m3u8",
+    "number": "139"
+  },
+  {
+    "id": "news-24-1r3q8yl",
+    "name": "News 24",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/news-24.png",
+    "category": "News",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/0265c1aee6ae/aes/manifest.m3u8",
+    "number": "140"
+  },
+  {
+    "id": "abc-news-3abnb9",
+    "name": "ABC News",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/abc-news.png",
+    "category": "News",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/266c16661aa1/aes/manifest.m3u8",
+    "number": "141"
+  },
+  {
+    "id": "mountain-tv-18ekvh2",
+    "name": "Mountain TV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/mountain-tv.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/857714ce5514/aes/manifest.m3u8",
+    "number": "142"
+  },
+  {
+    "id": "global-tv-74q2ja",
+    "name": "Global TV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/global-tv.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/b8f7a65edb36/aes/manifest.m3u8",
+    "number": "143"
+  },
+  {
+    "id": "himalaya-hd-10ho8jf",
+    "name": "Himalaya HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/himalaya-hd.png",
+    "category": "Entertainment",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/b3fedf738b91/aes/manifest.m3u8",
+    "number": "144"
+  },
+  {
+    "id": "btv-177ij33",
+    "name": "BTV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/btv.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/1d6ff37e261c/aes/manifest.m3u8",
+    "number": "146"
+  },
+  {
+    "id": "tv-today-hd-19jt1d9",
+    "name": "TV Today HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/tv-today-hd.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/82e2804ba1a8/aes/manifest.m3u8",
+    "number": "147"
+  },
+  {
+    "id": "naari-hd-1a798i0",
+    "name": "Naari HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/naari-hd.jpg",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/bc2038c33ee4/aes/manifest.m3u8",
+    "number": "148"
+  },
+  {
+    "id": "business-plus-1kdsxu0",
+    "name": "Business Plus",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/business-plus.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/9432c8855963/aes/manifest.m3u8",
+    "number": "150"
+  },
+  {
+    "id": "janata-television-v17yhr",
+    "name": "Janata Television",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/janata-television.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/b72d17885bdd/aes/manifest.m3u8",
+    "number": "151"
+  },
+  {
+    "id": "prime-times-8rwh51",
+    "name": "Prime Times",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/prime-times.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/01ca4dbf619a/aes/manifest.m3u8",
+    "number": "152"
+  },
+  {
+    "id": "omkar-tv-1fh4jqu",
+    "name": "Omkar TV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/omkar-tv.png",
+    "category": "Spiritual",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/d8d9b006f309/aes/manifest.m3u8",
+    "number": "153"
+  },
+  {
+    "id": "deep-tv-d0jqdb",
+    "name": "Deep TV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/deep-tv.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/f3494d35a140/aes/manifest.m3u8",
+    "number": "155"
+  },
+  {
+    "id": "itv-bi4k6q",
+    "name": "iTV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/itv.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/f638c533d9ba/aes/manifest.m3u8",
+    "number": "160"
+  },
+  {
+    "id": "gnn-hd-1hkfvrv",
+    "name": "GNN HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/gnn-hd.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/5dd8509dd715/aes/manifest.m3u8",
+    "number": "164"
+  },
+  {
+    "id": "kantipur-max-hd-a0pqd5",
+    "name": "Kantipur Max HD",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/kantipur-max-hd_uT6IK.jpeg",
+    "category": "Entertainment",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/795a843170ba/aes/manifest.m3u8",
+    "number": "165"
+  },
+  {
+    "id": "red-tv-urz7ue",
+    "name": "Red TV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/red-tv.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/fc366e053d2b/aes/manifest.m3u8",
+    "number": "166"
+  },
+  {
+    "id": "kasthamandap-gold-hd-1hyck7n",
+    "name": "kasthamandap Gold HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/kasthamandap-gold-hd.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/969ba05e90bf/aes/manifest.m3u8",
+    "number": "169"
+  },
+  {
+    "id": "yoho-tv-85wam6",
+    "name": "Yoho TV",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/yoho-tv_kPaCR.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/808ff947a2d2/aes/manifest.m3u8",
+    "number": "184"
+  },
+  {
+    "id": "explore-tv-hphf5x",
+    "name": "Explore TV",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/space-4k_cUZWZ.jfif",
+    "category": "Discovery",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/04db199ed2bf/aes/manifest.m3u8",
+    "number": "192"
+  },
+  {
+    "id": "himshikhar-vfith2",
+    "name": "Himshikhar",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/himshikhar-television_kZSax.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/ab40740097d1/aes/manifest.m3u8",
+    "number": "194"
+  },
+  {
+    "id": "prisma-tv-1htnrgs",
+    "name": "Prisma TV",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/prisma-tv_WpUqD.jpeg",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/6693fe844dd8/aes/manifest.m3u8",
+    "number": "195"
+  },
+  {
+    "id": "himalaya-sports-1jvtee5",
+    "name": "Himalaya Sports",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/himalaya-sports_ighXd.png",
+    "category": "Sports",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/6253ab53ff4a/aes/manifest.m3u8",
+    "number": "196"
+  },
+  {
+    "id": "public-4k-tv-111dy5g",
+    "name": "Public 4K TV",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/public-4k-tv_wAkJ6.png",
+    "category": "General",
+    "group": "Nepali",
+    "language": "Nepali",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/3af81d60a77e/aes/manifest.m3u8",
+    "number": "198"
+  },
+  {
+    "id": "star-gold-2-f89by5",
+    "name": "Star Gold 2",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/star-gold-2_LSOyn.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/d108a6fdbaeb/aes/manifest.m3u8",
+    "number": "244"
+  },
+  {
+    "id": "b4u-movies-1f0r5if",
+    "name": "B4U Movies",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/b4u-movies.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/5a338764ba7e/aes/manifest.m3u8",
+    "number": "245"
+  },
+  {
+    "id": "goldmines-1hisx4f",
+    "name": "GoldMines",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/goldmines.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/5a697c3a160d/aes/manifest.m3u8",
+    "number": "247"
+  },
+  {
+    "id": "b4u-bhojpuri-5jyqje",
+    "name": "B4U Bhojpuri",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/b4u-bhojpuri.jpg",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/b089be4a638e/aes/manifest.m3u8",
+    "number": "250"
+  },
+  {
+    "id": "bhojpuri-cinema-1bw05kl",
+    "name": "Bhojpuri Cinema",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/bhojpuri-cinema.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/8f7a9f3b891b/aes/manifest.m3u8",
+    "number": "251"
+  },
+  {
+    "id": "oscar-movies-bhojpuri-auhdwd",
+    "name": "Oscar Movies Bhojpuri",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/oscar-bhojpuri-tv.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/5a97749d32cf/aes/manifest.m3u8",
+    "number": "252"
+  },
+  {
+    "id": "star-utsav-movies-qorjq3",
+    "name": "Star Utsav Movies",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/star-utsav-movies_8HnPH.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/f4236caaa3ae/aes/manifest.m3u8",
+    "number": "254"
+  },
+  {
+    "id": "sony-max-2-v22u9s",
+    "name": "Sony Max 2",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/sony-max-2.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/6abc48ce5033/aes/manifest.m3u8",
+    "number": "255"
+  },
+  {
+    "id": "zee-cinema-hd-mx8tmf",
+    "name": "Zee Cinema HD",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/zee-cinema-hd_PibTJ.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/c218f86c0ce5/aes/manifest.m3u8",
+    "number": "920"
+  },
+  {
+    "id": "star-gold-hd-1iz0kiy",
+    "name": "Star Gold HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/star-gold-hd.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/bf9009322b44/aes/manifest.m3u8",
+    "number": "921"
+  },
+  {
+    "id": "pictures-hd-12p8n9q",
+    "name": "&Pictures HD",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/pictures-hd_R1gig.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/95fa8a383b32/aes/manifest.m3u8",
+    "number": "922"
+  },
+  {
+    "id": "sony-max-hd-1bj4wmp",
+    "name": "Sony Max HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/sony-max-hd.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/ba5da943bf1f/aes/manifest.m3u8",
+    "number": "923"
+  },
+  {
+    "id": "star-gold-select-hd-9rnxxw",
+    "name": "Star Gold Select HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/star-gold-select-hd.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/57d33814ae9c/aes/manifest.m3u8",
+    "number": "924"
+  },
+  {
+    "id": "colors-cineplex-hd-1idnl79",
+    "name": "Colors Cineplex HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/colors-cineplex-hd.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/3800737d189b/aes/manifest.m3u8",
+    "number": "925"
+  },
+  {
+    "id": "star-movies-hd-27f9ze",
+    "name": "Star Movies HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/star-movies-hd.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/8ff53d1efa84/aes/manifest.m3u8",
+    "number": "926"
+  },
+  {
+    "id": "star-movies-select-hd-1xpb3wk",
+    "name": "Star Movies Select HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/star-movies-select-hd.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/2d5d9f2bac0c/aes/manifest.m3u8",
+    "number": "927"
+  },
+  {
+    "id": "kartoon-channel-45tnn0",
+    "name": "Kartoon Channel",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/kartoon-channel_1Mmkt.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/569a573f17be/aes/manifest.m3u8",
+    "number": "931"
+  },
+  {
+    "id": "goldmines-bollywood-19pvj1y",
+    "name": "Goldmines Bollywood",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/goldmines-bollywood_62dCz.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/7431da3e1c70/aes/manifest.m3u8",
+    "number": "933"
+  },
+  {
+    "id": "lotus-macau-hd-52q6hq",
+    "name": "Lotus Macau HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/lotus-macau-hd.png",
+    "category": "Movies",
+    "group": "Movies",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/90219a7b3e0d/aes/manifest.m3u8",
+    "number": "936"
+  },
+  {
+    "id": "colors-rishtey-1cec2lj",
+    "name": "Colors Rishtey",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/ary-zindagi_2Y73o.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/9ed308f5c023/aes/manifest.m3u8",
+    "number": "208"
+  },
+  {
+    "id": "hum-sitaray-6b7ppb",
+    "name": "Hum Sitaray",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/hum-sitaray_wt58c.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/59b13f269fd9/aes/manifest.m3u8",
+    "number": "209"
+  },
+  {
+    "id": "anjan-tv-1m8v7vu",
+    "name": "Anjan TV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/anjan-tv.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/94c6999c1480/aes/manifest.m3u8",
+    "number": "212"
+  },
+  {
+    "id": "shemaroo-3kbxw0",
+    "name": "Shemaroo",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/shemaroo.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/861c14cb43b8/aes/manifest.m3u8",
+    "number": "213"
+  },
+  {
+    "id": "dd-bharati-12d3yl7",
+    "name": "DD bharati",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/dd-bharati.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/0988cfbc3004/aes/manifest.m3u8",
+    "number": "214"
+  },
+  {
+    "id": "dangal-1oqdqlo",
+    "name": "Dangal",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/dangal.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/4164918de0bc/aes/manifest.m3u8",
+    "number": "246"
+  },
+  {
+    "id": "dd-national-1q7aic8",
+    "name": "DD National",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/dd-national.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/10b7518eb9fc/aes/manifest.m3u8",
+    "number": "417"
+  },
+  {
+    "id": "colors-hd-h9c8dh",
+    "name": "Colors HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/colors-hd.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/43508509dd93/aes/manifest.m3u8",
+    "number": "900"
+  },
+  {
+    "id": "star-bharat-hd-118ioi8",
+    "name": "Star Bharat HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/star-bharat-hd.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/344de878a6de/aes/manifest.m3u8",
+    "number": "901"
+  },
+  {
+    "id": "star-plus-hd-ac01bs",
+    "name": "Star Plus HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/star-plus-hd.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/5469bd001acf/aes/manifest.m3u8",
+    "number": "903"
+  },
+  {
+    "id": "tv-hd-7n9o01",
+    "name": "&TV HD",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/tv-hd_2EFVC.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/6ffa0c9c681a/aes/manifest.m3u8",
+    "number": "904"
+  },
+  {
+    "id": "sony-hd-ylimmh",
+    "name": "Sony HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/sony-hd.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/79e32dd8a553/aes/manifest.m3u8",
+    "number": "905"
+  },
+  {
+    "id": "sony-sab-hd-1crbkz6",
+    "name": "Sony Sab HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/sony-sab-hd.png",
+    "category": "Entertainment",
+    "group": "Entertainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/86b8cab3a37e/aes/manifest.m3u8",
+    "number": "906"
+  },
+  {
+    "id": "sangeet-bhojpuri-e1v9c2",
+    "name": "Sangeet Bhojpuri",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/sangeet-bhojpuri.png",
+    "category": "Music",
+    "group": "Music",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/c9b163a0d8ec/aes/manifest.m3u8",
+    "number": "253"
+  },
+  {
+    "id": "mtv-j37jtq",
+    "name": "MTV",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/mtv_oCU7v.png",
+    "category": "Music",
+    "group": "Music",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/8e7aa613a8c3/aes/manifest.m3u8",
+    "number": "301"
+  },
+  {
+    "id": "zoom-tv-fsggn2",
+    "name": "Zoom TV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/zoom-tv.png",
+    "category": "Music",
+    "group": "Music",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/c6b971048452/aes/manifest.m3u8",
+    "number": "302"
+  },
+  {
+    "id": "9xm-gjmrpe",
+    "name": "9XM",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/9xm.png",
+    "category": "Music",
+    "group": "Music",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/f3b1f294b536/aes/manifest.m3u8",
+    "number": "303"
+  },
+  {
+    "id": "b4u-music-3f47nv",
+    "name": "B4U Music",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/b4u-music.png",
+    "category": "Music",
+    "group": "Music",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/a62de600a3b6/aes/manifest.m3u8",
+    "number": "307"
+  },
+  {
+    "id": "ary-music-1qvhz27",
+    "name": "ARY Music",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/ary-music.png",
+    "category": "Music",
+    "group": "Music",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/a55e560c1e28/aes/manifest.m3u8",
+    "number": "309"
+  },
+  {
+    "id": "9x-jalwa-61ujo9",
+    "name": "9X Jalwa",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/9x-jalwa_jXeSo.png",
+    "category": "Music",
+    "group": "Music",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/bf2bab6fc6e5/aes/manifest.m3u8",
+    "number": "310"
+  },
+  {
+    "id": "history-tv-18-1kr9iqc",
+    "name": "History TV 18",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/history-tv-18_jpLuN.png",
+    "category": "Discovery",
+    "group": "Infotainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/f259df22c8cc/aes/manifest.m3u8",
+    "number": "410"
+  },
+  {
+    "id": "discovery-science-h8md83",
+    "name": "Discovery Science",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/discovery-science_dYvQK.png",
+    "category": "Discovery",
+    "group": "Infotainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/231bef9c1ca0/aes/manifest.m3u8",
+    "number": "411"
+  },
+  {
+    "id": "discovery-turbo-17bnu0h",
+    "name": "Discovery Turbo",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/discovery-turbo_KKzpm.jpeg",
+    "category": "Discovery",
+    "group": "Infotainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/57f59ae85e44/aes/manifest.m3u8",
+    "number": "412"
+  },
+  {
+    "id": "dd-gyan-darshan-dqq622",
+    "name": "DD Gyan Darshan",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/dd-gyan-darshan.png",
+    "category": "Discovery",
+    "group": "Infotainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/6675ea3ed256/aes/manifest.m3u8",
+    "number": "415"
+  },
+  {
+    "id": "fashion-tv-hd-1m28j91",
+    "name": "Fashion TV HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/fashion-tv-hd.png",
+    "category": "Discovery",
+    "group": "Infotainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/77cbda2b287c/aes/manifest.m3u8",
+    "number": "420"
+  },
+  {
+    "id": "arirang-1kjxrp9",
+    "name": "Arirang",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/arirang.png",
+    "category": "Discovery",
+    "group": "Infotainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/d5834040b332/aes/manifest.m3u8",
+    "number": "720"
+  },
+  {
+    "id": "rt-documentary-a6u35r",
+    "name": "RT Documentary",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/rt-documentary_HT70o.png",
+    "category": "Discovery",
+    "group": "Infotainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/83afda52292e/aes/manifest.m3u8",
+    "number": "958"
+  },
+  {
+    "id": "bbc-earth-hd-42a1wj",
+    "name": "BBC earth HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/bbc-earth-hd.png",
+    "category": "News",
+    "group": "Infotainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/95bac1add677/aes/manifest.m3u8",
+    "number": "959"
+  },
+  {
+    "id": "discovery-hd-3g4lfw",
+    "name": "Discovery HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/discovery-hd.png",
+    "category": "Discovery",
+    "group": "Infotainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/744170cf93c4/aes/manifest.m3u8",
+    "number": "960"
+  },
+  {
+    "id": "national-geographic-hd-138uzii",
+    "name": "National Geographic HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/national-geographic-hd.png",
+    "category": "Discovery",
+    "group": "Infotainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/de46ca145a21/aes/manifest.m3u8",
+    "number": "961"
+  },
+  {
+    "id": "animal-planet-hd-96ciie",
+    "name": "Animal Planet HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/animal-planet-hd.png",
+    "category": "Discovery",
+    "group": "Infotainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/30d8a2a995a6/aes/manifest.m3u8",
+    "number": "962"
+  },
+  {
+    "id": "tlc-hd-1t5ogpt",
+    "name": "TLC HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/tlc-hd.png",
+    "category": "Discovery",
+    "group": "Infotainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/5d1e955f71a9/aes/manifest.m3u8",
+    "number": "965"
+  },
+  {
+    "id": "cgtn-documentary-xsecc2",
+    "name": "CGTN Documentary",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/cgtn-documentary_DZI3R.png",
+    "category": "Discovery",
+    "group": "Infotainment",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/b90a88c0851d/aes/manifest.m3u8",
+    "number": "970"
+  },
+  {
+    "id": "tv-5-monde-1lkc8sl",
+    "name": "TV 5 MONDE",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/tv-5-monde.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/edb98570ed2a/aes/manifest.m3u8",
+    "number": "418"
+  },
+  {
+    "id": "cnn-t1tlgu",
+    "name": "CNN",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/cnn.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/764ff3f3a731/aes/manifest.m3u8",
+    "number": "700"
+  },
+  {
+    "id": "bbc-world-news-jkctd4",
+    "name": "BBC World News",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/bbc-world-news.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/d8bac6dc115a/aes/manifest.m3u8",
+    "number": "701"
+  },
+  {
+    "id": "aljazeera-english-1qldg7b",
+    "name": "Aljazeera English",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/aljazeera-english.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/2993851c3632/aes/manifest.m3u8",
+    "number": "702"
+  },
+  {
+    "id": "rt-news-ay2hqv",
+    "name": "RT News",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/russia-today.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/cb11d09b0594/aes/manifest.m3u8",
+    "number": "705"
+  },
+  {
+    "id": "zee-news-1kw9w59",
+    "name": "Zee news",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/zee-news.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/d7bc850a1b32/aes/manifest.m3u8",
+    "number": "706"
+  },
+  {
+    "id": "news-18-1b92a8h",
+    "name": "News 18",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/news-18_BJ5g9.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/807c93de4a06/aes/manifest.m3u8",
+    "number": "708"
+  },
+  {
+    "id": "zee-business-16u8emv",
+    "name": "Zee Business",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/zee-business.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/8fc6ec638b71/aes/manifest.m3u8",
+    "number": "709"
+  },
+  {
+    "id": "aaj-tak-mny7z",
+    "name": "Aaj Tak",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/aaj-tak.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/54c377aa0da4/aes/manifest.m3u8",
+    "number": "711"
+  },
+  {
+    "id": "abp-news-t7s7zx",
+    "name": "ABP News",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/abp-news.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/287f172d0559/aes/manifest.m3u8",
+    "number": "712"
+  },
+  {
+    "id": "euronews-345nq3",
+    "name": "Euronews",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/euronews.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/b484695b232e/aes/manifest.m3u8",
+    "number": "713"
+  },
+  {
+    "id": "channel-news-asia-hd-sl3yv3",
+    "name": "Channel News Asia HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/channel-news-asia-hd.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/248baa884949/aes/manifest.m3u8",
+    "number": "715"
+  },
+  {
+    "id": "tve-asia-1lhs2vc",
+    "name": "TVE Asia",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/tve-asia.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/6a10bdf042fc/aes/manifest.m3u8",
+    "number": "718"
+  },
+  {
+    "id": "nhk-world-hd-v4g292",
+    "name": "NHK World HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/nhk-world-hd.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/e60ee1069c1f/aes/manifest.m3u8",
+    "number": "721"
+  },
+  {
+    "id": "cgtn-50jljo",
+    "name": "CGTN",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/cgtn.png",
+    "category": "News",
+    "group": "News",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/1d1b4b0b69f8/aes/manifest.m3u8",
+    "number": "722"
+  },
+  {
+    "id": "star-sports-hd-1-1tmbj6p",
+    "name": "Star Sports HD 1",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/star-sports-hd-1.png",
+    "category": "Sports",
+    "group": "Sports",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/d62e593380da/aes/manifest.m3u8",
+    "number": "940"
+  },
+  {
+    "id": "star-sports-hd2-qeet2r",
+    "name": "Star Sports HD2",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/star-sports-hd2.png",
+    "category": "Sports",
+    "group": "Sports",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/b1b9f7728c03/aes/manifest.m3u8",
+    "number": "941"
+  },
+  {
+    "id": "star-sports-hd1-hindi-1amuyhh",
+    "name": "Star Sports HD1 Hindi",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/star-sports-hd1-hindi.png",
+    "category": "Sports",
+    "group": "Sports",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/3394db1b8bd8/aes/manifest.m3u8",
+    "number": "942"
+  },
+  {
+    "id": "star-sports-select-hd1-1072wm4",
+    "name": "Star Sports Select HD1",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/star-sports-select-hd1.png",
+    "category": "Sports",
+    "group": "Sports",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/568f89607c8e/aes/manifest.m3u8",
+    "number": "943"
+  },
+  {
+    "id": "sony-sports-ten-1-hd-4b75fg",
+    "name": "Sony Sports Ten 1 HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/sony-sports-ten-1-hd.png",
+    "category": "Sports",
+    "group": "Sports",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/1044dc7450d1/aes/manifest.m3u8",
+    "number": "947"
+  },
+  {
+    "id": "sony-sports-ten-2-hd-3phsb0",
+    "name": "Sony Sports Ten 2 HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/sony-sports-ten-2-hd.png",
+    "category": "Sports",
+    "group": "Sports",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/42ae0a924919/aes/manifest.m3u8",
+    "number": "948"
+  },
+  {
+    "id": "sony-sports-ten-5-hd-11lninl",
+    "name": "Sony Sports Ten 5 HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/sony-sports-ten-5.png",
+    "category": "Sports",
+    "group": "Sports",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/2d01302d05c0/aes/manifest.m3u8",
+    "number": "950"
+  },
+  {
+    "id": "hungama-1lmwj8m",
+    "name": "Hungama",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/hungama.png",
+    "category": "Kids",
+    "group": "Kids & Adventure",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/3f8c69c71eae/aes/manifest.m3u8",
+    "number": "800"
+  },
+  {
+    "id": "nick-1r36o21",
+    "name": "Nick",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/nick.png",
+    "category": "Kids",
+    "group": "Kids & Adventure",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/fa8404986600/aes/manifest.m3u8",
+    "number": "801"
+  },
+  {
+    "id": "discovery-kids-dbv4dk",
+    "name": "Discovery Kids",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/discovery-kids_2TPSZ.png",
+    "category": "Kids",
+    "group": "Kids & Adventure",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/2b990199caf4/aes/manifest.m3u8",
+    "number": "803"
+  },
+  {
+    "id": "nick-jr-mnlgsd",
+    "name": "Nick Jr",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/nick-jr_XCPBs.png",
+    "category": "Kids",
+    "group": "Kids & Adventure",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/0044ea961646/aes/manifest.m3u8",
+    "number": "804"
+  },
+  {
+    "id": "disney-channel-zqzs45",
+    "name": "Disney channel",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/disney-channel.png",
+    "category": "Kids",
+    "group": "Kids & Adventure",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/b97d2c978106/aes/manifest.m3u8",
+    "number": "805"
+  },
+  {
+    "id": "super-hungama-19qsb0d",
+    "name": "Super Hungama",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/super-hungama_5zAoL.png",
+    "category": "Kids",
+    "group": "Kids & Adventure",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/4ea833310817/aes/manifest.m3u8",
+    "number": "806"
+  },
+  {
+    "id": "sonic-sm9qci",
+    "name": "Sonic",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/sonic_20elw.jpg",
+    "category": "Kids",
+    "group": "Kids & Adventure",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/d0ffbda009d1/aes/manifest.m3u8",
+    "number": "807"
+  },
+  {
+    "id": "disney-junior-ihspjz",
+    "name": "Disney Junior",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/disney-junior_91ttG.png",
+    "category": "Kids",
+    "group": "Kids & Adventure",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/e728b1fc3476/aes/manifest.m3u8",
+    "number": "809"
+  },
+  {
+    "id": "sony-yay-9010pm",
+    "name": "Sony YaY",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/sony-yay_H47Zi.png",
+    "category": "Kids",
+    "group": "Kids & Adventure",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/d0df07b1dd7b/aes/manifest.m3u8",
+    "number": "810"
+  },
+  {
+    "id": "cbeebies-1kzy29r",
+    "name": "Cbeebies",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/cbeebies_ci88e.png",
+    "category": "Kids",
+    "group": "Kids & Adventure",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/5c47375cd047/aes/manifest.m3u8",
+    "number": "811"
+  },
+  {
+    "id": "cartoon-network-5vd8z9",
+    "name": "Cartoon Network",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/cartoon-network_k8dex.png",
+    "category": "Kids",
+    "group": "Kids & Adventure",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/6775eae1989a/aes/manifest.m3u8",
+    "number": "812"
+  },
+  {
+    "id": "pogo-1tlgwyw",
+    "name": "Pogo",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/pogo_0bQIq.png",
+    "category": "Kids",
+    "group": "Kids & Adventure",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/96c57ee7fd71/aes/manifest.m3u8",
+    "number": "813"
+  },
+  {
+    "id": "disney-international-hd-1adul3x",
+    "name": "Disney International HD",
+    "logo": "http://dhitv.dishhome.com.np/storage/uploads/channels/logos/disney-international-hd_6ejd2.png",
+    "category": "Kids",
+    "group": "Kids & Adventure",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/602a4803df3a/aes/manifest.m3u8",
+    "number": "967"
+  },
+  {
+    "id": "bhakti-darshan-1eo2psn",
+    "name": "Bhakti Darshan",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/bhakti-darshan.png",
+    "category": "Spiritual",
+    "group": "Spiritual & Life",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/365c78c9f34e/aes/manifest.m3u8",
+    "number": "149"
+  },
+  {
+    "id": "divya-rnwvyl",
+    "name": "Divya",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/divya.png",
+    "category": "Spiritual",
+    "group": "Spiritual & Life",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/70c4d8b919c4/aes/manifest.m3u8",
+    "number": "177"
+  },
+  {
+    "id": "aastha-10qv94q",
+    "name": "Aastha",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/aastha.png",
+    "category": "Spiritual",
+    "group": "Spiritual & Life",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/0d8f7399983a/aes/manifest.m3u8",
+    "number": "815"
+  },
+  {
+    "id": "madani-1l68viy",
+    "name": "Madani",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/madani.png",
+    "category": "Spiritual",
+    "group": "Spiritual & Life",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/e7f2446595f2/aes/manifest.m3u8",
+    "number": "816"
+  },
+  {
+    "id": "peace-of-mind-1qbqcmr",
+    "name": "Peace Of Mind",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/peace-of-mind.png",
+    "category": "Spiritual",
+    "group": "Spiritual & Life",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/7649d743fe29/aes/manifest.m3u8",
+    "number": "817"
+  },
+  {
+    "id": "sanskar-tv-1k4xw0j",
+    "name": "Sanskar TV",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/sanskar-tv.png",
+    "category": "Spiritual",
+    "group": "Spiritual & Life",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/e2514cca9b8c/aes/manifest.m3u8",
+    "number": "818"
+  },
+  {
+    "id": "tbn-asia-1gifjty",
+    "name": "TBN Asia",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/tbn-asia.png",
+    "category": "Spiritual",
+    "group": "Spiritual & Life",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/f78cde7096a9/aes/manifest.m3u8",
+    "number": "819"
+  },
+  {
+    "id": "dd-kisan-4xc82t",
+    "name": "DD Kisan",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/dd-kisan.png",
+    "category": "General",
+    "group": "International",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/a7cf026c3c64/aes/manifest.m3u8",
+    "number": "416"
+  },
+  {
+    "id": "france-24-11u88h",
+    "name": "France 24",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/france-24.png",
+    "category": "General",
+    "group": "International",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/da402618cdd7/aes/manifest.m3u8",
+    "number": "704"
+  },
+  {
+    "id": "trt-world-hd-rko1to",
+    "name": "TRT World HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/trt-world-hd.png",
+    "category": "General",
+    "group": "International",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/13909333d2ce/aes/manifest.m3u8",
+    "number": "716"
+  },
+  {
+    "id": "peace-tv-hd-1ympukm",
+    "name": "Peace TV HD",
+    "logo": "http://dhitv.dishhome.com.np/images/channel_logos/peace-tv-hd.png",
+    "category": "General",
+    "group": "International",
+    "streamUrl": "http://ottlive.dishhome.com.np/protected/14df9b7907d2/aes/manifest.m3u8",
+    "number": "821"
+  }
+]
