@@ -206,4 +206,4 @@ button, a { touch-action:manipulation; }
 @media(max-width:370px) { .hero h1 { font-size:53px; }.library-toolbar { display:block; }.library-tools { margin-top:12px; justify-content:space-between; }.library-search { flex:1; }.library-search input { width:100%; }.hero-buttons .button { padding-inline:12px; }.volume-slider { display:none; }.card-art { height:115px; }.watch-title h1 { font-size:16px; }.watch-title-line .live-label { display:none; } }
 @media(prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } *,*:before,*:after { animation:none!important; transition:none!important; } }
 
-
+.player-bottom .viewer-count { display:flex; align-items:center; gap:6px; font-size:11px; letter-spacing:0; color:#baa7c7; }

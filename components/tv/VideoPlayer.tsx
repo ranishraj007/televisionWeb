@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useEffect, useRef, useState, type KeyboardEvent } from "react";
 import { Play, Pause, Volume2, VolumeX, Maximize, PictureInPicture2, LoaderCircle, Radio, RotateCcw, AlertCircle, ArrowUpRight } from "lucide-react";
 import type Hls from "hls.js";
+import { ViewerCount } from "@/components/tv/ViewerCount";
 import { playbackSources, playbackRequestUrl } from "@/lib/playback-sources";
 import type { Channel } from "@/types/channel";
 
@@ -170,5 +171,5 @@ export function VideoPlayer({ channel }: { channel: Channel }) {
       {!live && duration > 0 && Number.isFinite(duration) && <input type="range" className="seek-slider" min="0" max={duration} step="1" value={position} aria-label="Playback position" onChange={event => { if (videoRef.current) videoRef.current.currentTime = Number(event.target.value); }} />}
       <div className="controls-spacer" />{pip && <button aria-label="Picture in picture" onClick={() => void pictureInPicture()} disabled={status !== "ready"}><PictureInPicture2 size={19} /></button>}<button aria-label="Toggle fullscreen" onClick={() => void fullscreen()}><Maximize size={19} /></button>
     </div>
-  </div><div className="player-notice"><a href={channel.streamUrl} target="_blank" rel="noreferrer">Open original stream ↗</a>{!forceNative && !channel.isDemo && <span> · {sourceIndex === 0 ? "Direct connection" : "Server relay"}</span>}</div>{notice && <div className="player-notice" role="status">{notice}</div>}<div className="player-bottom"><span><span className={`connection-dot ${status === "error" ? "connection-error" : ""}`} />{status === "error" ? "Stream unavailable" : playing ? "Now playing" : status === "ready" ? "Ready when you are" : "Connecting"}</span><span>HLS PLAYER</span></div></div>;
+  </div><div className="player-notice"><a href={channel.streamUrl} target="_blank" rel="noreferrer">Open original stream ↗</a>{!forceNative && !channel.isDemo && <span> · {sourceIndex === 0 ? "Direct connection" : "Server relay"}</span>}</div>{notice && <div className="player-notice" role="status">{notice}</div>}<div className="player-bottom"><span><span className={`connection-dot ${status === "error" ? "connection-error" : ""}`} />{status === "error" ? "Stream unavailable" : playing ? "Now playing" : status === "ready" ? "Ready when you are" : "Connecting"}</span><ViewerCount channelId={channel.id} active={playing && status === "ready"} /></div></div>;
 }
