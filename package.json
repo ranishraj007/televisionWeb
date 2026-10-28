@@ -1,0 +1,34 @@
+{
+  "name": "nepal-tv",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "yarn@1.22.22",
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "playlist:import": "node --import tsx scripts/import-playlist.ts",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "hls.js": "1.7.3",
+    "lucide-react": "^0.577.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "tailwindcss": "4.3.3",
+    "postcss": "^8.5.6",
+    "typescript": "^5.9.3",
+    "@types/node": "^24.10.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "tsx": "^4.21.0",
+    "@playwright/test": "^1.58.2"
+  },
+  "type": "module"
+}

@@ -1,0 +1,484 @@
+#EXTM3U x-tvg-url="http://anamani.edu.np/IN.xml.gz"
+
+#EXTINF:-1 tvg-chno="100" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/ad-showcase.jpg" tvg-name="Ad showcase" group-title="DishHome Package", Ad showcase
+http://ottlive.dishhome.com.np/protected/06dea900c457/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="100" tvg-logo="http://www.foxcorporation.com/wp-content/themes/foxcorporation/images/fox-logo-white.png" tvg-name="Fox" group-title="Sports", Fox Sports
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 tvg-chno="101" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/dh-showcase.png" tvg-name="DH showcase" group-title="DishHome Package", DH showcase
+http://ottlive.dishhome.com.np/protected/f54783b28e85/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="102" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/reality-tv.png" tvg-name="Reality TV" group-title="DishHome Package", Reality TV
+http://ottlive.dishhome.com.np/protected/d1c0e953a1ba/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="103" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/plus-movie-hd.png" tvg-name="Plus Movie HD" group-title="DishHome Package", Plus Movie HD
+http://ottlive.dishhome.com.np/protected/6bbc9a509709/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="104" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/ramailo-tv-hd.png" tvg-name="Ramailo TV HD" group-title="DishHome Package", Ramailo TV HD
+http://ottlive.dishhome.com.np/protected/31e19d367549/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/action-sports-hd.png" tvg-name="Action Sports HD" group-title="DishHome Package", Action Sports HD
+http://ottlive.dishhome.com.np/protected/2caf4a1e977d/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="107" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/comedy-plus.png" tvg-name="Comedy plus" group-title="DishHome Package", Comedy plus
+
+#EXTINF:-1 tvg-chno="109" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/gunjan-tv-hd.png" tvg-name="Gunjan TV HD" group-title="DishHome Package", Gunjan TV HD
+
+#EXTINF:-1 tvg-chno="110" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/cine-hits.png" tvg-name="Cine Hits" group-title="DishHome Package", Cine Hits
+http://ottlive.dishhome.com.np/protected/7344aa8d73b8/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="111" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/d-movies.png" tvg-name="D Movies" group-title="DishHome Package", D Movies
+http://ottlive.dishhome.com.np/protected/23acfcc02034/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="112" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/d-music.png" tvg-name="D music" group-title="DishHome Package", D music
+http://ottlive.dishhome.com.np/protected/ca53b0b9fa2c/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="113" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/k-world.png" tvg-name="K World" group-title="DishHome Package", K World
+http://ottlive.dishhome.com.np/protected/afebb6281779/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="114" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/junior-tv.png" tvg-name="Junior TV" group-title="DishHome Package", Junior TV
+http://ottlive.dishhome.com.np/protected/f938394fa040/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="115" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/bidhyala-sikshya.png" tvg-name="Bidhyalaya Sikshya" group-title="DishHome Package", Bidhyalaya Sikshya
+http://ottlive.dishhome.com.np/protected/feaee8e9a4b2/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="119" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/madhes-plus.png" tvg-name="Madhes Plus" group-title="DishHome Package", Madhes Plus
+http://ottlive.dishhome.com.np/protected/6e95aacaa9ca/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="120" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/action-sports-hd-2.png" tvg-name="Action Sports HD 2" group-title="DishHome Package", Action Sports HD 2
+http://ottlive.dishhome.com.np/protected/30931a431014/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="106" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/jhigu-nepa-channel-hd.png" tvg-name="Jhigu Nepa Channel HD" group-title="Nepali", Jhigu Nepa Channel HD
+http://ottlive.dishhome.com.np/protected/07dc9f73e9e2/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="129" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/sarokar.png" tvg-name="Sarokar" group-title="Nepali", Sarokar
+http://ottlive.dishhome.com.np/protected/71321424757f/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="131" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/kantipur-tv-hd.png" tvg-name="Kantipur TV HD" group-title="Nepali", Kantipur TV HD
+http://ottlive.dishhome.com.np/protected/227852fb1fe0/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="132" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/image-channel-hd.png" tvg-name="Image Channel HD" group-title="Nepali", Image Channel HD
+
+#EXTINF:-1 tvg-chno="133" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/ntv-hd.png" tvg-name="NTV HD" group-title="Nepali", NTV HD
+http://ottlive.dishhome.com.np/protected/2b61060e22d8/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="134" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/ntv-plus-hd.png" tvg-name="NTV Plus HD" group-title="Nepali", NTV Plus HD
+http://ottlive.dishhome.com.np/protected/84ebf1005b46/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="135" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/ntv-news-hd.png" tvg-name="NTV News HD" group-title="Nepali", NTV News HD
+http://ottlive.dishhome.com.np/protected/cd1e62700caf/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="136" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/ntv-kohalpur.png" tvg-name="NTV kohalpur" group-title="Nepali", NTV kohalpur
+http://ottlive.dishhome.com.np/protected/d0d323a99fd7/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="137" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/ntv-itahari-hd.png" tvg-name="NTV Itahari HD" group-title="Nepali", NTV Itahari HD
+http://ottlive.dishhome.com.np/protected/a828bf606555/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="138" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/sagarmatha-tv.png" tvg-name="Sagarmatha TV" group-title="Nepali", Sagarmatha TV
+http://ottlive.dishhome.com.np/protected/785c84236093/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="139" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/avenues-tv.png" tvg-name="Avenues TV" group-title="Nepali", Avenues TV
+http://ottlive.dishhome.com.np/protected/3f80c0bb601e/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="140" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/news-24.png" tvg-name="News 24" group-title="Nepali", News 24
+http://ottlive.dishhome.com.np/protected/0265c1aee6ae/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="141" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/abc-news.png" tvg-name="ABC News" group-title="Nepali", ABC News
+http://ottlive.dishhome.com.np/protected/266c16661aa1/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="142" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/mountain-tv.png" tvg-name="Mountain TV" group-title="Nepali", Mountain TV
+http://ottlive.dishhome.com.np/protected/857714ce5514/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="143" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/global-tv.png" tvg-name="Global TV" group-title="Nepali", Global TV
+http://ottlive.dishhome.com.np/protected/b8f7a65edb36/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="144" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/himalaya-hd.png" tvg-name="Himalaya HD" group-title="Nepali", Himalaya HD
+http://ottlive.dishhome.com.np/protected/b3fedf738b91/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="145" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/ap1.png" tvg-name="AP1" group-title="Nepali", AP1
+
+#EXTINF:-1 tvg-chno="146" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/btv.png" tvg-name="BTV" group-title="Nepali", BTV
+http://ottlive.dishhome.com.np/protected/1d6ff37e261c/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="147" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/tv-today-hd.png" tvg-name="TV Today HD" group-title="Nepali", TV Today HD
+http://ottlive.dishhome.com.np/protected/82e2804ba1a8/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="148" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/naari-hd.jpg" tvg-name="Naari HD" group-title="Nepali", Naari HD
+http://ottlive.dishhome.com.np/protected/bc2038c33ee4/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="150" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/business-plus.png" tvg-name="Business Plus" group-title="Nepali", Business Plus
+http://ottlive.dishhome.com.np/protected/9432c8855963/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="151" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/janata-television.png" tvg-name="Janata Television" group-title="Nepali", Janata Television
+http://ottlive.dishhome.com.np/protected/b72d17885bdd/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="152" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/prime-times.png" tvg-name="Prime Times" group-title="Nepali", Prime Times
+http://ottlive.dishhome.com.np/protected/01ca4dbf619a/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="153" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/omkar-tv.png" tvg-name="Omkar TV" group-title="Nepali", Omkar TV
+http://ottlive.dishhome.com.np/protected/d8d9b006f309/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="155" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/deep-tv.png" tvg-name="Deep TV" group-title="Nepali", Deep TV
+http://ottlive.dishhome.com.np/protected/f3494d35a140/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="156" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/bodhi-tv-hd.png" tvg-name="Bodhi TV" group-title="Nepali", Bodhi TV
+
+#EXTINF:-1 tvg-chno="160" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/itv.png" tvg-name="iTV" group-title="Nepali", iTV
+http://ottlive.dishhome.com.np/protected/f638c533d9ba/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="164" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/gnn-hd.png" tvg-name="GNN HD" group-title="Nepali", GNN HD
+http://ottlive.dishhome.com.np/protected/5dd8509dd715/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="165" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/kantipur-max-hd_uT6IK.jpeg" tvg-name="Kantipur Max HD" group-title="Nepali", Kantipur Max HD
+http://ottlive.dishhome.com.np/protected/795a843170ba/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="166" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/red-tv.png" tvg-name="Red TV" group-title="Nepali", Red TV
+http://ottlive.dishhome.com.np/protected/fc366e053d2b/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="169" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/kasthamandap-gold-hd.png" tvg-name="kasthamandap Gold HD" group-title="Nepali", kasthamandap Gold HD
+http://ottlive.dishhome.com.np/protected/969ba05e90bf/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="182" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/nepal-mandal.png" tvg-name="Nepal Mandal" group-title="Nepali", Nepal Mandal
+
+#EXTINF:-1 tvg-chno="184" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/yoho-tv_kPaCR.png" tvg-name="Yoho TV" group-title="Nepali", Yoho TV
+http://ottlive.dishhome.com.np/protected/808ff947a2d2/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="192" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/space-4k_cUZWZ.jfif" tvg-name="Explore TV" group-title="Nepali", Explore TV
+http://ottlive.dishhome.com.np/protected/04db199ed2bf/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="194" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/himshikhar-television_kZSax.png" tvg-name="Himshikhar" group-title="Nepali", Himshikhar
+http://ottlive.dishhome.com.np/protected/ab40740097d1/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="195" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/prisma-tv_WpUqD.jpeg" tvg-name="Prisma TV" group-title="Nepali", Prisma TV
+http://ottlive.dishhome.com.np/protected/6693fe844dd8/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="196" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/himalaya-sports_ighXd.png" tvg-name="Himalaya Sports" group-title="Nepali", Himalaya Sports
+http://ottlive.dishhome.com.np/protected/6253ab53ff4a/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="197" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/bagmati-tv.png" tvg-name="Bagmati TV" group-title="Nepali", Bagmati TV
+
+#EXTINF:-1 tvg-chno="198" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/public-4k-tv_wAkJ6.png" tvg-name="Public 4K TV" group-title="Nepali", Public 4K TV
+http://ottlive.dishhome.com.np/protected/3af81d60a77e/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="244" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/star-gold-2_LSOyn.png" tvg-name="Star Gold 2" group-title="Movies", Star Gold 2
+http://ottlive.dishhome.com.np/protected/d108a6fdbaeb/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="245" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/b4u-movies.png" tvg-name="B4U Movies" group-title="Movies", B4U Movies
+http://ottlive.dishhome.com.np/protected/5a338764ba7e/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="247" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/goldmines.png" tvg-name="GoldMines" group-title="Movies", GoldMines
+http://ottlive.dishhome.com.np/protected/5a697c3a160d/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="250" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/b4u-bhojpuri.jpg" tvg-name="B4U Bhojpuri" group-title="Movies", B4U Bhojpuri
+http://ottlive.dishhome.com.np/protected/b089be4a638e/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="251" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/bhojpuri-cinema.png" tvg-name="Bhojpuri Cinema" group-title="Movies", Bhojpuri Cinema
+http://ottlive.dishhome.com.np/protected/8f7a9f3b891b/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="252" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/oscar-bhojpuri-tv.png" tvg-name="Oscar Movies Bhojpuri" group-title="Movies", Oscar Movies Bhojpuri
+http://ottlive.dishhome.com.np/protected/5a97749d32cf/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="254" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/star-utsav-movies_8HnPH.png" tvg-name="Star Utsav Movies" group-title="Movies", Star Utsav Movies
+http://ottlive.dishhome.com.np/protected/f4236caaa3ae/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="255" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/sony-max-2.png" tvg-name="Sony Max 2" group-title="Movies", Sony Max 2
+http://ottlive.dishhome.com.np/protected/6abc48ce5033/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="257" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/b4u-kadak.png" tvg-name="B4U Kadak" group-title="Movies", B4U Kadak
+
+#EXTINF:-1 tvg-chno="920" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/zee-cinema-hd_PibTJ.png" tvg-name="Zee Cinema HD" group-title="Movies", Zee Cinema HD
+http://ottlive.dishhome.com.np/protected/c218f86c0ce5/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="921" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/star-gold-hd.png" tvg-name="Star Gold HD" group-title="Movies", Star Gold HD
+http://ottlive.dishhome.com.np/protected/bf9009322b44/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="922" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/pictures-hd_R1gig.png" tvg-name="&Pictures HD" group-title="Movies", &Pictures HD
+http://ottlive.dishhome.com.np/protected/95fa8a383b32/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="923" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/sony-max-hd.png" tvg-name="Sony Max HD" group-title="Movies", Sony Max HD
+http://ottlive.dishhome.com.np/protected/ba5da943bf1f/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="924" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/star-gold-select-hd.png" tvg-name="Star Gold Select HD" group-title="Movies", Star Gold Select HD
+http://ottlive.dishhome.com.np/protected/57d33814ae9c/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="925" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/colors-cineplex-hd.png" tvg-name="Colors Cineplex HD" group-title="Movies", Colors Cineplex HD
+http://ottlive.dishhome.com.np/protected/3800737d189b/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="926" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/star-movies-hd.png" tvg-name="Star Movies HD" group-title="Movies", Star Movies HD
+http://ottlive.dishhome.com.np/protected/8ff53d1efa84/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="927" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/star-movies-select-hd.png" tvg-name="Star Movies Select HD" group-title="Movies", Star Movies Select HD
+http://ottlive.dishhome.com.np/protected/2d5d9f2bac0c/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="931" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/kartoon-channel_1Mmkt.png" tvg-name="Kartoon Channel" group-title="Movies", Kartoon Channel
+http://ottlive.dishhome.com.np/protected/569a573f17be/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="933" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/goldmines-bollywood_62dCz.png" tvg-name="Goldmines Bollywood" group-title="Movies", Goldmines Bollywood
+http://ottlive.dishhome.com.np/protected/7431da3e1c70/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="936" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/lotus-macau-hd.png" tvg-name="Lotus Macau HD" group-title="Movies", Lotus Macau HD
+http://ottlive.dishhome.com.np/protected/90219a7b3e0d/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="208" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/ary-zindagi_2Y73o.png" tvg-name="Colors Rishtey" group-title="Entertainment", Colors Rishtey
+http://ottlive.dishhome.com.np/protected/9ed308f5c023/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="209" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/hum-sitaray_wt58c.png" tvg-name="Hum Sitaray" group-title="Entertainment", Hum Sitaray
+http://ottlive.dishhome.com.np/protected/59b13f269fd9/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="211" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/hi-dost.png" tvg-name="HI Dost" group-title="Entertainment", HI Dost
+
+#EXTINF:-1 tvg-chno="212" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/anjan-tv.png" tvg-name="Anjan TV" group-title="Entertainment", Anjan TV
+http://ottlive.dishhome.com.np/protected/94c6999c1480/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="213" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/shemaroo.png" tvg-name="Shemaroo" group-title="Entertainment", Shemaroo
+http://ottlive.dishhome.com.np/protected/861c14cb43b8/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="214" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/dd-bharati.png" tvg-name="DD bharati" group-title="Entertainment", DD bharati
+http://ottlive.dishhome.com.np/protected/0988cfbc3004/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="246" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/dangal.png" tvg-name="Dangal" group-title="Entertainment", Dangal
+http://ottlive.dishhome.com.np/protected/4164918de0bc/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="417" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/dd-national.png" tvg-name="DD National" group-title="Entertainment", DD National
+http://ottlive.dishhome.com.np/protected/10b7518eb9fc/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="900" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/colors-hd.png" tvg-name="Colors HD" group-title="Entertainment", Colors HD
+http://ottlive.dishhome.com.np/protected/43508509dd93/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="901" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/star-bharat-hd.png" tvg-name="Star Bharat HD" group-title="Entertainment", Star Bharat HD
+http://ottlive.dishhome.com.np/protected/344de878a6de/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="902" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/zee-tv-hd_EwNqD.png" tvg-name="Zee TV HD" group-title="Entertainment", Zee TV HD
+
+#EXTINF:-1 tvg-chno="903" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/star-plus-hd.png" tvg-name="Star Plus HD" group-title="Entertainment", Star Plus HD
+http://ottlive.dishhome.com.np/protected/5469bd001acf/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="904" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/tv-hd_2EFVC.png" tvg-name="&TV HD" group-title="Entertainment", &TV HD
+http://ottlive.dishhome.com.np/protected/6ffa0c9c681a/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="905" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/sony-hd.png" tvg-name="Sony HD" group-title="Entertainment", Sony HD
+http://ottlive.dishhome.com.np/protected/79e32dd8a553/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="906" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/sony-sab-hd.png" tvg-name="Sony Sab HD" group-title="Entertainment", Sony Sab HD
+http://ottlive.dishhome.com.np/protected/86b8cab3a37e/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="253" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/sangeet-bhojpuri.png" tvg-name="Sangeet Bhojpuri" group-title="Music", Sangeet Bhojpuri
+http://ottlive.dishhome.com.np/protected/c9b163a0d8ec/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="301" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/mtv_oCU7v.png" tvg-name="MTV" group-title="Music", MTV
+http://ottlive.dishhome.com.np/protected/8e7aa613a8c3/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="302" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/zoom-tv.png" tvg-name="Zoom TV" group-title="Music", Zoom TV
+http://ottlive.dishhome.com.np/protected/c6b971048452/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="303" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/9xm.png" tvg-name="9XM" group-title="Music", 9XM
+http://ottlive.dishhome.com.np/protected/f3b1f294b536/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="307" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/b4u-music.png" tvg-name="B4U Music" group-title="Music", B4U Music
+http://ottlive.dishhome.com.np/protected/a62de600a3b6/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="309" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/ary-music.png" tvg-name="ARY Music" group-title="Music", ARY Music
+http://ottlive.dishhome.com.np/protected/a55e560c1e28/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="310" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/9x-jalwa_jXeSo.png" tvg-name="9X Jalwa" group-title="Music", 9X Jalwa
+http://ottlive.dishhome.com.np/protected/bf2bab6fc6e5/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="410" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/history-tv-18_jpLuN.png" tvg-name="History TV 18" group-title="Infotainment", History TV 18
+http://ottlive.dishhome.com.np/protected/f259df22c8cc/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="411" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/discovery-science_dYvQK.png" tvg-name="Discovery Science" group-title="Infotainment", Discovery Science
+http://ottlive.dishhome.com.np/protected/231bef9c1ca0/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="412" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/discovery-turbo_KKzpm.jpeg" tvg-name="Discovery Turbo" group-title="Infotainment", Discovery Turbo
+http://ottlive.dishhome.com.np/protected/57f59ae85e44/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="415" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/dd-gyan-darshan.png" tvg-name="DD Gyan Darshan" group-title="Infotainment", DD Gyan Darshan
+http://ottlive.dishhome.com.np/protected/6675ea3ed256/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="420" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/fashion-tv-hd.png" tvg-name="Fashion TV HD" group-title="Infotainment", Fashion TV HD
+http://ottlive.dishhome.com.np/protected/77cbda2b287c/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="720" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/arirang.png" tvg-name="Arirang" group-title="Infotainment", Arirang
+http://ottlive.dishhome.com.np/protected/d5834040b332/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="958" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/rt-documentary_HT70o.png" tvg-name="RT Documentary" group-title="Infotainment", RT Documentary
+http://ottlive.dishhome.com.np/protected/83afda52292e/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="959" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/bbc-earth-hd.png" tvg-name="BBC earth HD" group-title="Infotainment", BBC earth HD
+http://ottlive.dishhome.com.np/protected/95bac1add677/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="960" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/discovery-hd.png" tvg-name="Discovery HD" group-title="Infotainment", Discovery HD
+http://ottlive.dishhome.com.np/protected/744170cf93c4/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="961" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/national-geographic-hd.png" tvg-name="National Geographic HD" group-title="Infotainment", National Geographic HD
+http://ottlive.dishhome.com.np/protected/de46ca145a21/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="962" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/animal-planet-hd.png" tvg-name="Animal Planet HD" group-title="Infotainment", Animal Planet HD
+http://ottlive.dishhome.com.np/protected/30d8a2a995a6/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="963" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/nat-geo-wild-hd_9nqpy.png" tvg-name="Nat Geo Wild HD" group-title="Infotainment", Nat Geo Wild HD
+
+#EXTINF:-1 tvg-chno="965" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/tlc-hd.png" tvg-name="TLC HD" group-title="Infotainment", TLC HD
+http://ottlive.dishhome.com.np/protected/5d1e955f71a9/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="970" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/cgtn-documentary_DZI3R.png" tvg-name="CGTN Documentary" group-title="Infotainment", CGTN Documentary
+http://ottlive.dishhome.com.np/protected/b90a88c0851d/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="129" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/sarokar.png" tvg-name="Sarokar" group-title="News", Sarokar
+http://ottlive.dishhome.com.np/protected/71321424757f/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="418" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/tv-5-monde.png" tvg-name="TV 5 MONDE" group-title="News", TV 5 MONDE
+http://ottlive.dishhome.com.np/protected/edb98570ed2a/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="700" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/cnn.png" tvg-name="CNN" group-title="News", CNN
+http://ottlive.dishhome.com.np/protected/764ff3f3a731/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="701" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/bbc-world-news.png" tvg-name="BBC World News" group-title="News", BBC World News
+http://ottlive.dishhome.com.np/protected/d8bac6dc115a/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="702" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/aljazeera-english.png" tvg-name="Aljazeera English" group-title="News", Aljazeera English
+http://ottlive.dishhome.com.np/protected/2993851c3632/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="705" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/russia-today.png" tvg-name="RT News" group-title="News", RT News
+http://ottlive.dishhome.com.np/protected/cb11d09b0594/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="706" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/zee-news.png" tvg-name="Zee news" group-title="News", Zee news
+http://ottlive.dishhome.com.np/protected/d7bc850a1b32/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="708" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/news-18_BJ5g9.png" tvg-name="News 18" group-title="News", News 18
+http://ottlive.dishhome.com.np/protected/807c93de4a06/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="709" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/zee-business.png" tvg-name="Zee Business" group-title="News", Zee Business
+http://ottlive.dishhome.com.np/protected/8fc6ec638b71/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="711" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/aaj-tak.png" tvg-name="Aaj Tak" group-title="News", Aaj Tak
+http://ottlive.dishhome.com.np/protected/54c377aa0da4/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="712" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/abp-news.png" tvg-name="ABP News" group-title="News", ABP News
+http://ottlive.dishhome.com.np/protected/287f172d0559/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="713" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/euronews.png" tvg-name="Euronews" group-title="News", Euronews
+http://ottlive.dishhome.com.np/protected/b484695b232e/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="715" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/channel-news-asia-hd.png" tvg-name="Channel News Asia HD" group-title="News", Channel News Asia HD
+http://ottlive.dishhome.com.np/protected/248baa884949/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="717" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/dw-hd.png" tvg-name="DW HD" group-title="News", DW HD
+
+#EXTINF:-1 tvg-chno="718" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/tve-asia.png" tvg-name="TVE Asia" group-title="News", TVE Asia
+http://ottlive.dishhome.com.np/protected/6a10bdf042fc/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="720" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/arirang.png" tvg-name="Arirang" group-title="News", Arirang
+http://ottlive.dishhome.com.np/protected/d5834040b332/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="721" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/nhk-world-hd.png" tvg-name="NHK World HD" group-title="News", NHK World HD
+http://ottlive.dishhome.com.np/protected/e60ee1069c1f/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="722" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/cgtn.png" tvg-name="CGTN" group-title="News", CGTN
+http://ottlive.dishhome.com.np/protected/1d1b4b0b69f8/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="196" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/himalaya-sports_ighXd.png" tvg-name="Himalaya Sports" group-title="Sports", Himalaya Sports
+http://ottlive.dishhome.com.np/protected/6253ab53ff4a/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="940" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/star-sports-hd-1.png" tvg-name="Star Sports HD 1" group-title="Sports", Star Sports HD 1
+http://ottlive.dishhome.com.np/protected/d62e593380da/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="941" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/star-sports-hd2.png" tvg-name="Star Sports HD2" group-title="Sports", Star Sports HD2
+http://ottlive.dishhome.com.np/protected/b1b9f7728c03/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="942" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/star-sports-hd1-hindi.png" tvg-name="Star Sports HD1 Hindi" group-title="Sports", Star Sports HD1 Hindi
+http://ottlive.dishhome.com.np/protected/3394db1b8bd8/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="943" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/star-sports-select-hd1.png" tvg-name="Star Sports Select HD1" group-title="Sports", Star Sports Select HD1
+http://ottlive.dishhome.com.np/protected/568f89607c8e/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="944" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/star-sports-select-hd2.png" tvg-name="Star Sports Select HD2" group-title="Sports", Star Sports Select HD2
+
+#EXTINF:-1 tvg-chno="947" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/sony-sports-ten-1-hd.png" tvg-name="Sony Sports Ten 1 HD" group-title="Sports", Sony Sports Ten 1 HD
+http://ottlive.dishhome.com.np/protected/1044dc7450d1/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="948" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/sony-sports-ten-2-hd.png" tvg-name="Sony Sports Ten 2 HD" group-title="Sports", Sony Sports Ten 2 HD
+http://ottlive.dishhome.com.np/protected/42ae0a924919/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="949" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/sony-sports-ten-3-hd.png" tvg-name="Sony Sports Ten 3 HD" group-title="Sports", Sony Sports Ten 3 HD
+
+#EXTINF:-1 tvg-chno="950" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/sony-sports-ten-5.png" tvg-name="Sony Sports Ten 5 HD" group-title="Sports", Sony Sports Ten 5 HD
+http://ottlive.dishhome.com.np/protected/2d01302d05c0/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="800" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/hungama.png" tvg-name="Hungama" group-title="Kids & Adventure", Hungama
+http://ottlive.dishhome.com.np/protected/3f8c69c71eae/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="801" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/nick.png" tvg-name="Nick" group-title="Kids & Adventure", Nick
+http://ottlive.dishhome.com.np/protected/fa8404986600/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="803" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/discovery-kids_2TPSZ.png" tvg-name="Discovery Kids" group-title="Kids & Adventure", Discovery Kids
+http://ottlive.dishhome.com.np/protected/2b990199caf4/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="804" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/nick-jr_XCPBs.png" tvg-name="Nick Jr" group-title="Kids & Adventure", Nick Jr
+http://ottlive.dishhome.com.np/protected/0044ea961646/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="805" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/disney-channel.png" tvg-name="Disney channel" group-title="Kids & Adventure", Disney channel
+http://ottlive.dishhome.com.np/protected/b97d2c978106/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="806" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/super-hungama_5zAoL.png" tvg-name="Super Hungama" group-title="Kids & Adventure", Super Hungama
+http://ottlive.dishhome.com.np/protected/4ea833310817/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="807" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/sonic_20elw.jpg" tvg-name="Sonic" group-title="Kids & Adventure", Sonic
+http://ottlive.dishhome.com.np/protected/d0ffbda009d1/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="809" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/disney-junior_91ttG.png" tvg-name="Disney Junior" group-title="Kids & Adventure", Disney Junior
+http://ottlive.dishhome.com.np/protected/e728b1fc3476/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="810" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/sony-yay_H47Zi.png" tvg-name="Sony YaY" group-title="Kids & Adventure", Sony YaY
+http://ottlive.dishhome.com.np/protected/d0df07b1dd7b/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="811" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/cbeebies_ci88e.png" tvg-name="Cbeebies" group-title="Kids & Adventure", Cbeebies
+http://ottlive.dishhome.com.np/protected/5c47375cd047/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="812" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/cartoon-network_k8dex.png" tvg-name="Cartoon Network" group-title="Kids & Adventure", Cartoon Network
+http://ottlive.dishhome.com.np/protected/6775eae1989a/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="813" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/pogo_0bQIq.png" tvg-name="Pogo" group-title="Kids & Adventure", Pogo
+http://ottlive.dishhome.com.np/protected/96c57ee7fd71/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="967" tvg-logo="http://dhitv.dishhome.com.np/storage/uploads/channels/logos/disney-international-hd_6ejd2.png" tvg-name="Disney International HD" group-title="Kids & Adventure", Disney International HD
+http://ottlive.dishhome.com.np/protected/602a4803df3a/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="149" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/bhakti-darshan.png" tvg-name="Bhakti Darshan" group-title="Spiritual & Life", Bhakti Darshan
+http://ottlive.dishhome.com.np/protected/365c78c9f34e/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="155" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/deep-tv.png" tvg-name="Deep TV" group-title="Spiritual & Life", Deep TV
+http://ottlive.dishhome.com.np/protected/f3494d35a140/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="156" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/bodhi-tv-hd.png" tvg-name="Bodhi TV" group-title="Spiritual & Life", Bodhi TV
+
+#EXTINF:-1 tvg-chno="177" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/divya.png" tvg-name="Divya" group-title="Spiritual & Life", Divya
+http://ottlive.dishhome.com.np/protected/70c4d8b919c4/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="815" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/aastha.png" tvg-name="Aastha" group-title="Spiritual & Life", Aastha
+http://ottlive.dishhome.com.np/protected/0d8f7399983a/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="816" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/madani.png" tvg-name="Madani" group-title="Spiritual & Life", Madani
+http://ottlive.dishhome.com.np/protected/e7f2446595f2/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="817" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/peace-of-mind.png" tvg-name="Peace Of Mind" group-title="Spiritual & Life", Peace Of Mind
+http://ottlive.dishhome.com.np/protected/7649d743fe29/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="818" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/sanskar-tv.png" tvg-name="Sanskar TV" group-title="Spiritual & Life", Sanskar TV
+http://ottlive.dishhome.com.np/protected/e2514cca9b8c/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="819" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/tbn-asia.png" tvg-name="TBN Asia" group-title="Spiritual & Life", TBN Asia
+http://ottlive.dishhome.com.np/protected/f78cde7096a9/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="416" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/dd-kisan.png" tvg-name="DD Kisan" group-title="International", DD Kisan
+http://ottlive.dishhome.com.np/protected/a7cf026c3c64/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="704" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/france-24.png" tvg-name="France 24" group-title="International", France 24
+http://ottlive.dishhome.com.np/protected/da402618cdd7/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="716" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/trt-world-hd.png" tvg-name="TRT World HD" group-title="International", TRT World HD
+http://ottlive.dishhome.com.np/protected/13909333d2ce/aes/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="821" tvg-logo="http://dhitv.dishhome.com.np/images/channel_logos/peace-tv-hd.png" tvg-name="Peace TV HD" group-title="International", Peace TV HD
+http://ottlive.dishhome.com.np/protected/14df9b7907d2/aes/manifest.m3u8
