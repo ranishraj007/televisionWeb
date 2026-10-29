@@ -23,7 +23,7 @@ No environment variables, accounts, backend database, API keys, are required. Th
 
 ## What the supplied playlist actually contains
 
-The source at `http://anamani.edu.np/prabhu.m3u8` was successfully fetched and inspected. Despite its `.m3u8` extension, it is an **extended multi-channel M3U list**, with `#EXTINF` channel metadata and no `#EXT-X-*` HLS manifest tags.
+The source at ` was successfully fetched and inspected. Despite its `.m3u8` extension, it is an **extended multi-channel M3U list**, with `#EXTINF` channel metadata and no `#EXT-X-*` HLS manifest tags.
 
 - 166 entries in the supplied snapshot.
 - 147 unique HTTP(S) channel stream URLs imported.
@@ -40,13 +40,13 @@ Some source groups cover multiple genres. The importer assigns a browsing catego
 Fetch and import a fresh list at development time:
 
 ```bash
-yarn playlist:import http://anamani.edu.np/prabhu.m3u8
+yarn playlist:import
 ```
 
 Or import a downloaded file, with the original source URL for resolving relative stream/logo paths:
 
 ```bash
-yarn playlist:import data/source.m3u --source-url http://anamani.edu.np/prabhu.m3u8
+yarn playlist:import data/source.m3u --source-url
 ```
 
 To use only the included public demo playlist:
