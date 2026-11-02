@@ -5,6 +5,8 @@ export const demoAccounts = [
   { username: "bishal", password: "Bishal@123" },
   { username: "bickey", password: "Bickey@123" },
   { username: "nijgoll", password: "Nijgoll@123" },
+  { username: "mandip", password: "Mandip@123" },
+  { username: "techcolab", password: "Techcolab@123" },
   { username: "baba", password: "Baba@123" },
 ];
 export const sessionKey = "golltv-demo-session";
