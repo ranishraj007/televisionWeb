@@ -1,6 +1,7 @@
 import { test, expect } from "@playwright/test";
 
 test.beforeEach(async ({ page }) => {
+  await page.addInitScript(() => sessionStorage.setItem("golltv-demo-session", "viewer"));
   // Logos are optional; avoid depending on third-party image hosts in functional tests.
   await page.route('**/*', route => {
     const request = route.request();

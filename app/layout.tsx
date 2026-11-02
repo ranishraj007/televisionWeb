@@ -1,7 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Analytics } from "@vercel/analytics/next";
-import { Header } from "@/components/layout/Header";
-import { Footer } from "@/components/layout/Footer";
+import { AuthShell } from "@/components/auth/AuthShell";
 import { FavoritesProvider } from "@/components/tv/FavoritesProvider";
 import { siteConfig } from "@/lib/config";
 import "./globals.css";
@@ -14,5 +13,5 @@ export const metadata: Metadata = {
 };
 export const viewport: Viewport = { themeColor: "#0b0c10", width: "device-width", initialScale: 1 };
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="en"><body><FavoritesProvider><a href="#main-content" className="skip-link">Skip to content</a><Header /><main id="main-content">{children}</main><Footer /></FavoritesProvider><Analytics /></body></html>;
+  return <html lang="en"><body><FavoritesProvider><AuthShell>{children}</AuthShell></FavoritesProvider><Analytics /></body></html>;
 }

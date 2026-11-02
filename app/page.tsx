@@ -36,7 +36,7 @@ export default function Home() {
         <div>
           <span className="eyebrow">TAKE A LOOK AROUND</span>
           <h2>Meet your new favorite player.</h2>
-          <p>Try a sample film and settle in. No account needed.</p>
+          <p>Try a sample film and settle in.</p>
         </div>
         <Link href="/watch/player-demo" className="button button-secondary">
           Play the demo
